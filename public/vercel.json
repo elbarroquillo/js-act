@@ -1,0 +1,6 @@
+{
+    "rewrites": [
+      { "source": "/:filename", "destination": "/public/:filename" }
+    ]
+  }
+  
